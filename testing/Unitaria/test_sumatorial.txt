@@ -1,0 +1,12 @@
+>>> from sumatorial import sumatorial
+>>> sumatorial(1,2,3)
+La suma de los valores es: 6
+
+>>> sumatorial(4,6,4)
+La suma de los valores es: 14
+
+>>> sumatorial(0,0,0)
+La suma de los valores es: 0
+
+>>> sumatorial(-1,-2,-3)
+La suma de los valores es: -6
